@@ -9,6 +9,8 @@ Extracting Structured Information from a txt dataset using Mistral AI.
 - **Retrieve Character Information**
   - Simply enter a character name and behold—detailed profiles emerge, as if by magic, from the depths of your dataset.
   - ![Character Retrieval](https://github.com/user-attachments/assets/4109e8fb-1d82-4e89-8331-7742decfabf5)
+  - ![image](https://github.com/user-attachments/assets/20b62219-400b-4bd1-abe5-215d2d856ed3)
+
  
 - **Edge case Handling**
   - If your character name doesn't exist in the data you provided as a knowledge base then you get a response like this:
