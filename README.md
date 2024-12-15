@@ -11,8 +11,8 @@ Extracting Structured Information from a txt dataset using Mistral AI.
   - ![Character Retrieval](https://github.com/user-attachments/assets/4109e8fb-1d82-4e89-8331-7742decfabf5)
  
 - **Edge case Handling**
-- If your character name doesn't exist in the data you provided as a knowledge base then you get a response like this:
-- ![Image](https://github.com/user-attachments/assets/e2a1790c-d5ea-431a-8aef-d8817f399834)
+  - If your character name doesn't exist in the data you provided as a knowledge base then you get a response like this:
+  - ![Image](https://github.com/user-attachments/assets/e2a1790c-d5ea-431a-8aef-d8817f399834)
 
 # How to use this Notebook
 1. **Open the Notebook**: Download the notebook on your system or use google colab.
