@@ -8,4 +8,6 @@ Extracting Structured Information from a txt dataset using Mistral AI.
 
 # Dataset 
 - Use this command to download the dataset
-  ''git clone https://github.com/deep-stack/langchain-assignment-dataset.git''
+  ```shell
+  git clone https://github.com/deep-stack/langchain-assignment-dataset.git
+  ```
