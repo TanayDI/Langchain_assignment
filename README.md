@@ -4,18 +4,15 @@ Extracting Structured Information from a txt dataset using Mistral AI.
 ## Features🚀
 - **Compute Embeddings**
   - Watch as the raw textual data transmutes into dynamic embeddings that empower sophisticated NLP tasks.
-  - ![Compute Embeddings](![image](https://github.com/user-attachments/assets/2545b730-d3fd-4d72-b571-2d1c466521c7)
-)
+  - ![Compute Embeddings](https://github.com/user-attachments/assets/2545b730-d3fd-4d72-b571-2d1c466521c7)
 
 - **Retrieve Character Information**
   - Simply enter a character name and behold—detailed profiles emerge, as if by magic, from the depths of your dataset.
-  - ![Character Retrieval](![image](https://github.com/user-attachments/assets/4109e8fb-1d82-4e89-8331-7742decfabf5)
-)
+  - ![Character Retrieval](https://github.com/user-attachments/assets/4109e8fb-1d82-4e89-8331-7742decfabf5)
  
 - **Edge case Handling**
 - If your character name doesn't exist in the data you provided as a knowledge base then you get a response like this:
-- ![image](![image](https://github.com/user-attachments/assets/e2a1790c-d5ea-431a-8aef-d8817f399834)
-)
+- ![Image](https://github.com/user-attachments/assets/e2a1790c-d5ea-431a-8aef-d8817f399834)
 
 # How to use this Notebook
 1. **Open the Notebook**: Download the notebook on your system or use google colab.
