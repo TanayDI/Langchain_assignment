@@ -4,7 +4,7 @@ Extracting Structured Information from a txt dataset using Mistral AI.
 ## Features🚀
 - **Compute Embeddings**
   - Watch as the raw textual data transmutes into dynamic embeddings that empower sophisticated NLP tasks.
-  - ![Compute Embeddings]()
+  - ![Compute Embeddings](image.png)
 
 - **Retrieve Character Information**
   - Simply enter a character name and behold—detailed profiles emerge, as if by magic, from the depths of your dataset.
